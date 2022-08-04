@@ -1,0 +1,13 @@
+
+#!/bin/sh
+
+
+your_Username=$USER
+date_time=date
+
+
+
+
+
+echo "Your username is $your_Username."
+echo "Today's date and time is $date_time."
