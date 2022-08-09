@@ -1,0 +1,11 @@
+
+#!/bin/sh
+
+
+
+
+echo -e "Input your password: \c"
+read password
+echo "The password is $password." | wc -c	
+
+ 
