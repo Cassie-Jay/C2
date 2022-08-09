@@ -1,0 +1,8 @@
+#!/bin/sh
+
+
+echo -e "Input a number:  \c"
+read number
+
+echo $number | rev
+
